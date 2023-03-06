@@ -14,12 +14,12 @@ function Navbar() {
         </div>
 
         <div className='flex flex-row gap-x-2 text-[16px]'>
-          <button className='flex flex-row gap-x-2 items-center justify-center hover:bg-slate-300 p-2 rounded-md active:bg-blue-600'><TbSmartHome/>Ana sayfa</button>
-          <button className='flex flex-row gap-x-2 hover:bg-slate-300 p-2 rounded-md active:bg-blue-600 items-center justify-center '><HiOutlineViewGridAdd/>Asistan</button>
-          <button className='flex flex-row gap-x-2 hover:bg-slate-300 p-2 rounded-md active:bg-blue-600 items-center justify-center '><FiFile/>Emirler</button>
-          <button className='flex flex-row gap-x-2 hover:bg-slate-300 p-2 rounded-md active:bg-blue-600 items-center justify-center '><HiOutlineChartBar/>Raporlar</button>
-          <button className='flex flex-row gap-x-2 hover:bg-slate-300 p-2 rounded-md active:bg-blue-600 items-center justify-center '><FiToggleLeft/>Ayarlar</button>
-          <button className='flex flex-row gap-x-2 hover:bg-slate-300 p-2 rounded-md active:bg-blue-600 items-center justify-center '><TbLayoutGrid/>Hesabım</button>
+          <button className='flex flex-row gap-x-2 items-center justify-center hover:bg-slate-200 p-2 rounded-md active:bg-blue-600'><TbSmartHome/>Ana sayfa</button>
+          <button className='flex flex-row gap-x-2 hover:bg-slate-200 p-2 rounded-md active:bg-blue-600 items-center justify-center '><HiOutlineViewGridAdd/>Asistan</button>
+          <button className='flex flex-row gap-x-2 hover:bg-slate-200 p-2 rounded-md active:bg-blue-600 items-center justify-center '><FiFile/>Emirler</button>
+          <button className='flex flex-row gap-x-2 hover:bg-slate-200 p-2 rounded-md active:bg-blue-600 items-center justify-center '><HiOutlineChartBar/>Raporlar</button>
+          <button className='flex flex-row gap-x-2 hover:bg-slate-200 p-2 rounded-md active:bg-blue-600 items-center justify-center '><FiToggleLeft/>Ayarlar</button>
+          <button className='flex flex-row gap-x-2 hover:bg-slate-200 p-2 rounded-md active:bg-blue-600 items-center justify-center '><TbLayoutGrid/>Hesabım</button>
         </div>
       </nav>
     </>

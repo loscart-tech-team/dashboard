@@ -1,7 +1,6 @@
 import React from 'react';
 import {BsThreeDotsVertical} from "react-icons/bs";
 
-
 function Asistan() {
   return (
     <>
@@ -18,17 +17,20 @@ function Asistan() {
                     Açıklama
                 </div>
             </div>
-            <div 
-            style={{boxShadow: "0px 4px 18px 0px rgba(75, 70, 92, 0.1)"}} 
-            className='w-[352px] h-[489px] rounded-[6px]'>
-                <div className='flex justify-between items-center mt-6 mx-6 '>
-                    <h6 className=' text-lg font-semibold'>Asistan Satışları</h6>
-                    <div><BsThreeDotsVertical color='#AAA8B3'/></div>
+                <div 
+                style={{boxShadow: "0px 4px 18px 0px rgba(75, 70, 92, 0.1)"}} 
+                className='w-[352px] h-[489px] rounded-[6px]'>
+                    <div className='flex justify-between items-center mt-6 mx-6 '>
+                        <h6 className=' text-lg font-semibold'>Asistan Satışları</h6>
+                        <div><BsThreeDotsVertical color='#AAA8B3'/></div>
+                    </div>
+                    <div className='mx-6 text-xs text-[#B0AFB8] mt-1'>
+                        Asistan önerisiyle yapılan satışlar
+                    </div>
+                    <div>
+                        
+                    </div>
                 </div>
-                <div className='mx-6 text-xs text-[#B0AFB8] mt-1'>
-                    Asistan önerisiyle yapılan satışlar
-                </div>
-            </div>
             <div 
             style={{boxShadow: "0px 4px 18px 0px rgba(75, 70, 92, 0.1)"}} 
             className='w-[352px] h-[489px] rounded-[6px]'>
