@@ -4,6 +4,7 @@ import ForgotPassPage from "./pages/forgotPass/ForgotPassPage";
 import NewPassPage from "./pages/NewPass/NewPassPage";
 import SecurityCodePage from "./pages/securityCode/SecurityCodePage";
 import AnasayfaPage from "./pages/Anasayfa/AnasayfaPage";
+import MyAccount from "./pages/MyAcoount/MyAccount";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -28,6 +29,10 @@ const router = createBrowserRouter(
           path="/anasayfa" 
           element={<AnasayfaPage />} 
           />
+        <Route
+            path="/hesabım"
+            element={<MyAccount />}
+        />
     </>
   )
 )
