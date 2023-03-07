@@ -5,7 +5,7 @@ import MyAccountHeader from "./MyAccountHeader/MyAccountHeader";
 import DeleteAccount from "./DeleteAccount/DeleteAccount";
 import MyAccountFooter from "./MyAccountFooter/MyAccountFooter";
 
-const Test = () => {
+const MyAccountIndex = () => {
   return (
     <>
       <Navbar />
@@ -19,4 +19,4 @@ const Test = () => {
   );
 };
 
-export default Test;
+export default MyAccountIndex;

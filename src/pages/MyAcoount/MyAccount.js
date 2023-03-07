@@ -1,9 +1,8 @@
-import React   from "react";
-import Test from "../../components/myAccount";
+import React from "react";
+import MyAccountIndex from "../../components/myAccount";
 
 const MyAccount = () => {
-    return <Test />;
-}
-
+  return <MyAccountIndex />;
+};
 
 export default MyAccount;
