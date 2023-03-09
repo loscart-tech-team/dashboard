@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8be28b41-86fa-4fb6-b45a-7dc5fb579c63" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/myAccount/MyAccountHeader/MyAccountHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/MyAccountHeader/MyAccountHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/myAccount/ProfilDetails/ProfilDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/ProfilDetails/ProfilDetails.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/MyAccountLayout/MyAccountLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyAccountLayout/MyAccountLayout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
