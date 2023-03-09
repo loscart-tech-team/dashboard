@@ -4,51 +4,53 @@ import { Link } from "react-router-dom";
 
 const MyAccountHeader = () => {
   return (
-    <div className="flex flex-row gap-x-2 text-[15px] h-[38px] mt-3 mb-3">
+    <div className="flex flex-wrap gap-5 justify-center mt-3 mb-3">
       <Link
         to="/hesabım"
-        className="flex flex-row gap-x-2 w-[175px] items-center justify-center bg-blue-800 text-white  rounded-md "
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1"
       >
         <TbUsers />
-        Profili Düzenle
+        <span className="text-sm md:text-base">Profili Düzenle</span>
       </Link>
 
       <Link
         to="/hesabım/membership-plan"
-        className="flex flex-row gap-x-2 w-[154px]  items-center justify-center hover:bg-blue-800 hover:text-white  rounded-md active:bg-blue-800"
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1 hover:bg-blue-700 active:bg-blue-900"
       >
         <TbLock />
-        Üyelik Planı
+        <span className="text-sm md:text-base">Üyelik Planı</span>
       </Link>
 
       <Link
         to="/hesabım/technical-support"
-        className="flex flex-row gap-x-2 w-[171px]  items-center justify-center hover:bg-blue-800 hover:text-white rounded-md active:bg-blue-800"
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1 hover:bg-blue-700 active:bg-blue-900"
       >
         <TbFileText />
-        Teknik Destek
+        <span className="text-sm md:text-base">Teknik Destek</span>
       </Link>
 
       <Link
         to="/hesabım/settings"
-        className="flex flex-row gap-x-2 w-[120px] items-center justify-center hover:bg-blue-800 hover:text-white rounded-md active:bg-blue-800"
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1 hover:bg-blue-700 active:bg-blue-900"
       >
         <TbBell />
-        Ayarlar
+        <span className="text-sm md:text-base">Ayarlar</span>
       </Link>
+
       <Link
         to="/hesabım/frequently-asked-questions"
-        className="flex flex-row gap-x-2 w-[223px]  items-center justify-center hover:bg-blue-800 hover:text-white rounded-md active:bg-blue-800"
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1 hover:bg-blue-700 active:bg-blue-900"
       >
         <TbLink />
-        Sıkça sorulan sorular
+        <span className="text-sm md:text-base">Sıkça sorulan sorular</span>
       </Link>
+
       <Link
         to="/hesabım/contact-us"
-        className="flex flex-row gap-x-2 w-[146px]  items-center justify-center hover:bg-blue-800 hover:text-white  rounded-md active:bg-blue-800"
+        className="flex flex-row items-center justify-center w-full md:w-auto bg-blue-800 text-white rounded-md px-2 py-1 hover:bg-blue-700 active:bg-blue-900"
       >
         <TbLink />
-        Bize ulaşın
+        <span className="text-sm md:text-base">Bize ulaşın</span>
       </Link>
     </div>
   );

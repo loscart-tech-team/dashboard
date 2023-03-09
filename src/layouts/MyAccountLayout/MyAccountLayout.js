@@ -13,11 +13,7 @@ const MyAccountLayout = () => {
         <div className="flex-grow">
           <Outlet />
         </div>
-        <div
-          className=" h-16  border-t-2 border-white
-           bottom-0
-             "
-        >
+        <div className="sm:h-16 border-t-2 border-white bottom-0">
           <MyAccountFooter />
         </div>
       </div>

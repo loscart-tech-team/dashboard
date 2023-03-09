@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd92a65-88db-4632-9fea-215aba4df6dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dashboard.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="8be28b41-86fa-4fb6-b45a-7dc5fb579c63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/myAccount/MyAccountHeader/MyAccountHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/MyAccountHeader/MyAccountHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/myAccount/ProfilDetails/ProfilDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/ProfilDetails/ProfilDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/MyAccountLayout/MyAccountLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/MyAccountLayout/MyAccountLayout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\burak\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
