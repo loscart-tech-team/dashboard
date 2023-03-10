@@ -2,6 +2,7 @@ import {useState} from "react";
 import logo from "./../../../image/logo.png";
 //import leftArrow from "./../../../image/arrow.png";
 import { NavLink, useNavigate } from "react-router-dom";
+import axios from "axios";
 
 
 export default function Login() {
@@ -11,6 +12,7 @@ export default function Login() {
   const [capsLockPass, setCapsLockPass] = useState(false);
 
   function handleSubmit(e) {
+
     e.preventDefault();
     console.log('You clicked submit.');
     navigate("/anasayfa")
