@@ -4,7 +4,7 @@ const DeleteAccount = () => {
   return (
     <div className="p-6 border-gray-200 rounded-lg shadow mt-5">
       <p className="font-semibold text-lg md:text-xl">Delete Account</p>
-      <div className="h-[80px] md:h-auto bg-orange-100 rounded-md p-4 mt-4 md:mt-6">
+      <div className=" md:h-auto bg-orange-100 rounded-md p-4 mt-4 md:mt-6 ">
         <h5 className="font-semibold text-lg md:text-xl text-amber-600">
           Are you sure you want to delete your account?
         </h5>
@@ -13,7 +13,7 @@ const DeleteAccount = () => {
           certain.
         </p>
       </div>
-      <div className="flex mt-4 md:mt-6">
+      <div className="flex mt-4 md:mt-6 ">
         <input type="checkbox" className="mr-2 text-md md:text-lg" />
         <p className="text-md md:text-lg">I confirm my account deactivation</p>
       </div>
