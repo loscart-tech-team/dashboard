@@ -26,6 +26,7 @@ function Navbar() {
   function toggleMenu() {
     setIsMenuOpen(!isMenuOpen);
   }
+
   return (
     <>
       <nav>

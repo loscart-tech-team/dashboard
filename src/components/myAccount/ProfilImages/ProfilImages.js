@@ -6,7 +6,7 @@ const ProfilImages = () => {
       <div className="flex flex-col items-center md:flex-row md:max-w-xl">
         <img
           className="rounded-lg h-24 w-24 md:h-40 md:w-40"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg"
+          src="https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_400x400.jpg"
           alt=""
         />
         <div className="flex flex-col justify-between p-4 leading-normal w-full">
