@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8be28b41-86fa-4fb6-b45a-7dc5fb579c63" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/auth/Anasayfa/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/auth/Anasayfa/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/myAccount/DeleteAccount/DeleteAccount.js" afterDir="false" />
-    </list>
+    <list default="true" id="8be28b41-86fa-4fb6-b45a-7dc5fb579c63" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +56,7 @@
       <updated>1678105739462</updated>
       <workItem from="1678105741478" duration="93000" />
       <workItem from="1678452846768" duration="3801000" />
-      <workItem from="1678546785350" duration="3906000" />
+      <workItem from="1678546785350" duration="4258000" />
     </task>
     <servers />
   </component>
