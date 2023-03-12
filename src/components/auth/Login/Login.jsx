@@ -2,8 +2,6 @@ import {useState} from "react";
 import logo from "./../../../image/logo.png";
 //import leftArrow from "./../../../image/arrow.png";
 import { NavLink, useNavigate } from "react-router-dom";
-//import axios from "axios";
-
 
 export default function Login() {
   const navigate = useNavigate();
