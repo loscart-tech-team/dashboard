@@ -42,7 +42,7 @@ function Navbar() {
               <button
                 onClick={toggleMenu}
                 type="button"
-                className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:bg-blue-600 hover:text-white active:bg-blue-700 focus:bg-blue-700 focus:text-white"
+                className="inline-flex items-center justify-center p-2 rounded-md hover:bg-blue-600 hover:text-white active:bg-blue-700 focus:bg-blue-700 focus:text-white"
                 aria-controls="mobile-menu"
                 aria-expanded="false"
               >
