@@ -20,7 +20,7 @@ const FrequentlyAskedQuestions = () => {
 return (
     <main className=" bg-gray-100 px-4 font-sans w-full h-screen border first-letter:flex flex-col text-[#4B465C]">
       <div className="my-16 text-center">
-        <h2 className="font-semibold text-[32px]">Sıkça Sorulan Sorular</h2>
+        <h2 className="font-semibold text-[32px]">Sık Sorulan Sorular</h2>
         <h3 className="text-[15px]">Haydi en çok sorulan soruları cevaplamaya yardımcı olalım</h3>
       </div>
       {questions.map((question) => (
